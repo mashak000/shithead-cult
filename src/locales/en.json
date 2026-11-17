@@ -1,0 +1,8 @@
+{
+  "home": {
+    "title": "Shithead Cult"
+  },
+  "chart": {
+    "teachingEvent": "{{teacher}} taught {{learner}} in {{city}}."
+  }
+}
