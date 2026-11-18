@@ -1,8 +1,15 @@
 {
+  "appName": "SHITHEAD CULT",
   "home": {
     "title": "Shithead Cult"
   },
   "chart": {
     "teachingEvent": "{{teacher}} taught {{learner}} in {{city}}."
-  }
+  },
+  "auth": {
+    "signout": "Sign Out",
+    "sure": "Are you sure?",
+    "login": "Log in"
+  },
+  "yes": "yes"
 }
